@@ -7,3 +7,4 @@
 
 * Ubiquiti: UF-Instant Customized Web UI and Custom Firmware via MTD for Instant GPON Module..
 * Hisense LTE3415 SCA+ SFP+ SC/APC Customized Web UI and Custom Firmware via MTD GPON Module..
+* WAS-110 SFP+ Custom Firmware..
